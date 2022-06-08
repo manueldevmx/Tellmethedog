@@ -1,7 +1,9 @@
-package com.example.tellmethedog
+package com.example.tellmethedog.doglist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.tellmethedog.Dog
+import com.example.tellmethedog.R
 import com.example.tellmethedog.databinding.ActivityDogListBinding
 
 class DogListActivity : AppCompatActivity() {
