@@ -1,6 +1,6 @@
 package com.example.tellmethedog
 
-class Dog (
+data class Dog (
     val id: Long,
     val index: Int,
     val name: String,
